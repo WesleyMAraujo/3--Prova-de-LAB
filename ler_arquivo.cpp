@@ -8,7 +8,6 @@ typedef struct {
     char nome_cidade[20];
 }cidades_juntas;
 
-
 /**
  * ler os arquivos de cordenadas e legenda
 */
